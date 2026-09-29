@@ -1,0 +1,15 @@
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\bin\Debug\net10.0\Tugas Ahli Mesin.exe
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\bin\Debug\net10.0\Tugas Ahli Mesin.deps.json
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\bin\Debug\net10.0\Tugas Ahli Mesin.runtimeconfig.json
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\bin\Debug\net10.0\Tugas Ahli Mesin.dll
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\bin\Debug\net10.0\Tugas Ahli Mesin.pdb
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\obj\Debug\net10.0\Tugas Ahli Mesin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\obj\Debug\net10.0\Tugas Ahli Mesin.AssemblyInfoInputs.cache
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\obj\Debug\net10.0\Tugas Ahli Mesin.AssemblyInfo.cs
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\obj\Debug\net10.0\Tugas Ahli Mesin.csproj.CoreCompileInputs.cache
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\obj\Debug\net10.0\Tugas Ahli Mesin.dll
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\obj\Debug\net10.0\refint\Tugas Ahli Mesin.dll
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\obj\Debug\net10.0\Tugas Ahli Mesin.pdb
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\obj\Debug\net10.0\Tugas Ahli Mesin.genruntimeconfig.cache
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\obj\Debug\net10.0\ref\Tugas Ahli Mesin.dll
+C:\Users\someo\Documents\kelas 10\tugas ahli mesin\Tugas Ahli Mesin\Tugas Ahli Mesin\obj\Debug\net10.0\Tugas Ah.6D6E085A.Up2Date
